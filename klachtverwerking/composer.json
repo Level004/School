@@ -1,0 +1,20 @@
+{
+    "name": "guilliano/klachtverwerking",
+    "description": "php mailer",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    },
+    "license": "open source",
+    "autoload": {
+        "psr-4": {
+            "Guilliano\\Klachtverwerking\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Guilliano van Dinther",
+            "email": "guilliano.vandinther@ictmbo.nl"
+        }
+    ]
+}
